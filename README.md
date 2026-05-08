@@ -1,2 +1,4 @@
 # analisis-y-desarollo-de-software
-solo codigo 
+**solo codigo** 
+## este es el primer codigo
+### este es el segundo codigo
